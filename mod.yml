@@ -34,10 +34,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/W_EX010_N0_WI.mdlx/-0.dds
-- name: remastered/itempic/item-043.imd/-0.dds
+- name: remastered/itempic/item-064.imd/-0.dds
   method: copy
   source:
-  - name: remastered/itempic/item-043.imd/-0.dds
+  - name: remastered/itempic/item-064.imd/-0.dds
 - name: msg/us/sys.bar
   method: binarc
   source:
